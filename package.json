@@ -1,0 +1,22 @@
+{
+  "name": "express_part2",
+  "version": "1.0.0",
+  "description": "aprendendo express",
+  "main": "index.js",
+ "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+    
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teteusouzaof/Express_part2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teteusouzaof/Express_part2/issues"
+  },
+  "homepage": "https://github.com/Teteusouzaof/Express_part2#readme"
+}
